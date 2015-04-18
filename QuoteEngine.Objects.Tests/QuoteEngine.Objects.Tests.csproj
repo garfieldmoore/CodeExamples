@@ -97,6 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AcceptanceTests.cs" />
+    <Compile Include="VehicleAgeLoadingTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTests\CalcualtionSpecs.cs" />
     <Compile Include="UnitTests\InsuranceModuleSpecs.cs" />

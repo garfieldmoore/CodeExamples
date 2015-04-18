@@ -10,5 +10,6 @@
         public string Module { get; set; }
         public string Type { get; set; }
         public string Manufacturer { get; set; }
+        public int Age { get; set; }
     }
 }

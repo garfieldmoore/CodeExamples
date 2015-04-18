@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="CalculationEngine.cs" />
     <Compile Include="Domain\InsuranceQuote.cs" />
+    <Compile Include="Modules\VehicleModule.cs" />
     <Compile Include="Rules\FunctionalRule.cs" />
     <Compile Include="Modules\InsuranceModule.cs" />
     <Compile Include="Modules\ModuleFactory.cs" />
